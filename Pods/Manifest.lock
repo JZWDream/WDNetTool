@@ -1,0 +1,26 @@
+PODS:
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - YTKNetwork (2.1.4):
+    - AFNetworking/NSURLSession (~> 3.0)
+
+DEPENDENCIES:
+  - YTKNetwork
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - YTKNetwork
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  YTKNetwork: 19be749c30f0512ada07180f4637b4b67bc8ddc2
+
+PODFILE CHECKSUM: dc2180925784daefc748b4e9faa540b1cdd7d539
+
+COCOAPODS: 1.8.4
